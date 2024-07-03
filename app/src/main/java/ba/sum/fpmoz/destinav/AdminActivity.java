@@ -192,5 +192,10 @@ public class AdminActivity extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
+    public void goReserve(View view){
+        Intent intent = new Intent(this, ReservationsActivity.class);
+        startActivity(intent);
+        finish();
+    }
 
 }
