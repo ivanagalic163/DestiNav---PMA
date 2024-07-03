@@ -165,5 +165,9 @@ public class AccountActivity extends AppCompatActivity {
         finish();
     }
 
-
+    public void changePassword (View view){
+        Intent intent = new Intent(this, ChangePasswordActivity.class);
+        startActivity(intent);
+        finish();
+    }
 }
