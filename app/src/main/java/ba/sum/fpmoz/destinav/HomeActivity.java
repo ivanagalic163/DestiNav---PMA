@@ -48,5 +48,13 @@ public class HomeActivity extends AppCompatActivity {
 
     }
 
+    public void goToAccount(View view){
+        Intent intent = new Intent(this, AccountActivity.class);
+        startActivity(intent);
+        finish();
+    }
+
+
+
 
 }
