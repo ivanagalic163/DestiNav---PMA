@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468068062711",
+    "project_id": "destinav-10e55",
+    "storage_bucket": "destinav-10e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468068062711:android:b4502ea95b15a5f0cf0af2",
+        "android_client_info": {
+          "package_name": "ba.sum.fpmoz.destinav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhI4BGNNeiuDGG4mZn2RQVNqAnpccQZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
