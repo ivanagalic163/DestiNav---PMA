@@ -196,5 +196,10 @@ public class OptionActivity extends AppCompatActivity {
         finish();
     }
 
+    public void goDiscover(View view){
+        Intent intent = new Intent(this, DiscoverActivity.class);
+        startActivity(intent);
+        finish();
+    }
 
 }

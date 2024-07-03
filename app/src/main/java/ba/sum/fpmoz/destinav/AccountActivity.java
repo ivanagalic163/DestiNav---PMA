@@ -170,4 +170,10 @@ public class AccountActivity extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
+
+    public void goDiscover(View view){
+        Intent intent = new Intent(this, DiscoverActivity.class);
+        startActivity(intent);
+        finish();
+    }
 }
