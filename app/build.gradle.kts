@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "ba.sum.fpmoz.destinav"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "ba.sum.fpmoz.destinav"
