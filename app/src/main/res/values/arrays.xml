@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="categories_array">
+        <item>Hotels</item>
+        <item>Destination</item>
+        <item>Food</item>
+        <item>Shopping</item>
+    </string-array>
+</resources>
