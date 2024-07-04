@@ -110,7 +110,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
-                        android:src="@mipmap/york" />
+                        android:src="@mipmap/zagreb" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -118,7 +118,7 @@
                         android:layout_gravity="bottom|start"
                         android:background="#80000000"
                         android:padding="8dp"
-                        android:text="New York"
+                        android:text="Zagreb"
                         android:textColor="#FFFFFF"
                         android:textSize="16sp" />
 
@@ -147,7 +147,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
-                        android:src="@mipmap/paris" />
+                        android:src="@mipmap/beograd" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -156,7 +156,7 @@
                         android:background="#80000000"
                         android:fontFamily="@font/poppins"
                         android:padding="8dp"
-                        android:text="Paris"
+                        android:text="Beograd"
                         android:textColor="#FFFFFF"
                         android:textSize="16sp" />
 
@@ -185,7 +185,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
-                        android:src="@mipmap/london" />
+                        android:src="@mipmap/sarajevo" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -193,7 +193,7 @@
                         android:layout_gravity="bottom|start"
                         android:fontFamily="@font/poppins"
                         android:padding="8dp"
-                        android:text="London"
+                        android:text="Sarajevo"
                         android:textColor="#FFFFFF"
                         android:textSize="16sp" />
 
@@ -255,7 +255,7 @@
                     android:layout_width="100dp"
                     android:layout_height="match_parent"
                     android:scaleType="centerCrop"
-                    android:src="@mipmap/kwa" />
+                    android:src="@mipmap/kravice" />
 
                 <androidx.constraintlayout.widget.ConstraintLayout
                     android:layout_width="match_parent"
@@ -266,10 +266,10 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
-                        android:layout_marginEnd="16dp"
+                        android:layout_marginEnd="40dp"
                         android:fontFamily="@font/poppins"
                         android:padding="10dp"
-                        android:text="Kwa Martine"
+                        android:text="Kravice"
                         android:textColor="#000"
                         android:textSize="10dp"
                         android:textStyle="bold"
@@ -282,7 +282,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="16dp"
-                        android:text="South Africa"
+                        android:text="Ljubuski"
                         android:textSize="8dp"
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintHorizontal_bias="0.166"
@@ -328,7 +328,7 @@
                         android:layout_width="100dp"
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
-                        android:src="@mipmap/beach" />
+                        android:src="@mipmap/stari_most" />
 
                     <androidx.constraintlayout.widget.ConstraintLayout
                         android:layout_width="match_parent"
@@ -339,10 +339,10 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="12dp"
-                            android:layout_marginEnd="16dp"
+                            android:layout_marginEnd="30dp"
                             android:fontFamily="@font/poppins"
                             android:padding="10dp"
-                            android:text="Beach Resort"
+                            android:text="Old Bridge"
                             android:textColor="#000"
                             android:textSize="10dp"
                             android:textStyle="bold"
@@ -355,7 +355,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginEnd="16dp"
-                            android:text="Jakarta"
+                            android:text="Mostar"
                             android:textSize="8dp"
                             app:layout_constraintEnd_toEndOf="parent"
                             app:layout_constraintHorizontal_bias="0.14"
